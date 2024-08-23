@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/055c878d-9dee-4d3f-a21f-82841d11c2d2)# Computer Graphics
+# Computer Graphics
 
 This repository contains tasks completed as part of the "Computer Graphics" course. The assignments cover key aspects of working with graphical objects in both 2D and 3D space, studying various types of curves, and implementing visualization algorithms.
 
